@@ -1,0 +1,44 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# macOS + VS Code
+.vscode/
+.idea/
+
+# ROS 2 build artifacts
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# C++ build
+*.o
+*.a
+*.so.*
+*.dylib
+*.exe
+*.out
+*.app
+*.dSYM/
+*.orig
+
+# IDE
+*.swp
+*.swo
+*~
+*.sublime-*
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*~
+
