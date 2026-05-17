@@ -23,6 +23,7 @@
 
 ## Структура репозитория
 
+```text
 .
 ├── latex_project
 │   ├── figures_lab3
@@ -34,6 +35,7 @@
     ├── robolab7.ipynb
     ├── signal_3.txt
     └── signal_ecg_3.txt
+```
 
 ## Основные файлы
 
